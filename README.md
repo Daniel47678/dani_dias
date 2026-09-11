@@ -1,11 +1,22 @@
-# dani_dias
 <div align="center">
 
-# 👋 Olá, eu sou Daniel Dias!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e293b,100:7c3aed&height=180&section=header&text=Daniel%20Dias&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Estudante%20de%20Informática%20para%20Web&descAlignY=60&descSize=18"/>
+
+</div>
+
+<div align="center">
+
+# 👋 Olá, eu sou o Daniel!
 
 ### 💻 Estudante de Informática para Web
 
-🚀 Construindo projetos, aprendendo novas tecnologias e evoluindo todos os dias.
+**Tecnologia • Aprendizado • Evolução**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 </div>
 
@@ -13,21 +24,149 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Informática para Web, apaixonado por tecnologia e sempre em busca de novos conhecimentos.
+Sou estudante de **Informática para Web**, apaixonado por tecnologia e sempre buscando ampliar meus conhecimentos.
 
-🎯 Tenho interesse em seguir carreira nas áreas de **Banco de Dados, QA, DevOps, Computação em Nuvem e Cibersegurança**.
+Tenho interesse em construir uma carreira na área de TI, principalmente nos campos de **Banco de Dados, QA, DevOps, Computação em Nuvem e Cibersegurança**.
 
-💻 Gosto de desenvolver projetos para colocar meus conhecimentos em prática e estou sempre buscando evoluir minhas habilidades técnicas.
+Gosto de aprender através da prática, desenvolver soluções, testar novas tecnologias e compreender cada vez melhor como os sistemas funcionam.
 
-🚀 Atualmente, meu objetivo é conquistar minha primeira oportunidade na área de TI e continuar construindo minha carreira na tecnologia.
+🎯 **Objetivo:** conquistar minha primeira oportunidade na área de TI e continuar evoluindo profissionalmente.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🧠 Habilidades
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,jest,linux" />
+### 🌐 Desenvolvimento Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+### 📱 Desenvolvimento Mobile
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br><br>
+
+`React Native`
+
+<br><br>
+
+### 🧪 Qualidade e Testes
+
+<img src="https://skillicons.dev/icons?i=jest" />
+
+<br><br>
+
+`Jest` • `Testes Automatizados` • `Qualidade de Software`
+
+<br><br>
+
+### 🔧 Versionamento e Colaboração
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<br><br>
+
+`Git` • `GitHub` • `Versionamento de Código`
+
+<br><br>
+
+### 🐧 Sistemas Operacionais
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<br><br>
+
+`Linux` • `Terminal` • `Linha de Comando`
+
+</div>
+
+---
+
+# ⚡ Stack Tecnológica
+
+<div align="center">
+
+| 🌐 Web | 📱 Mobile | 🧪 Testes | 🔧 Versionamento | 🐧 Sistemas |
+|:---:|:---:|:---:|:---:|:---:|
+| HTML | React Native | Jest | Git | Linux |
+| CSS | | Testes | GitHub | Terminal |
+| JavaScript | | QA | | |
+
+</div>
+
+---
+
+# 🎯 Áreas de Interesse
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+
+🗄️
+
+### Banco de Dados
+
+</td>
+
+<td align="center" width="180">
+
+🧪
+
+### QA
+
+</td>
+
+<td align="center" width="180">
+
+⚙️
+
+### DevOps
+
+</td>
+
+<td align="center" width="180">
+
+☁️
+
+### Cloud
+
+</td>
+
+<td align="center" width="180">
+
+🔐
+
+### Cibersegurança
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+Tenho interesse em aprofundar meus conhecimentos nessas áreas e entender como diferentes tecnologias se conectam dentro de ambientes profissionais de TI.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -35,122 +174,51 @@ Sou estudante de Informática para Web, apaixonado por tecnologia e sempre em bu
 
 <div align="center">
 
-| Tecnologia | Utilização |
-|:---:|:---:|
-| 🧡 HTML | Estrutura de páginas e aplicações |
-| 💙 CSS | Estilização e interfaces |
-| 💛 JavaScript | Desenvolvimento e lógica |
-| ⚛️ React Native | Desenvolvimento de aplicações mobile |
-| 🧪 Jest | Testes automatizados |
-| 🐧 Linux | Sistemas, terminal e ambientes de desenvolvimento |
-| 🔀 Git | Controle de versão |
-| 🐙 GitHub | Versionamento e colaboração |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🛒 Kioferta
-
-Sistema voltado para comparação e gerenciamento de ofertas.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript` `Git` `GitHub`
-
-🔗 [Ver projeto](#)
-
----
-
-### 💙 Civvo
-
-Sistema desenvolvido para auxiliar na organização e gestão de organizações e ONGs.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript` `Git` `GitHub`
-
-🔗 [Ver projeto](#)
-
----
-
-### 🎮 GamesTridani
-
-Projeto web voltado para jogos e entretenimento.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript` `Git` `GitHub`
-
-🔗 [Ver projeto](#)
-
----
-
-## 📱 Desenvolvimento Mobile
-
-Tenho interesse em desenvolvimento de aplicações mobile utilizando:
+# 🚀 Atualmente
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react" />
-
-</div>
-
-### ⚛️ React Native
-
-Desenvolvimento de aplicações para dispositivos móveis, buscando criar interfaces funcionais, organizadas e responsivas.
-
----
-
-## 🧪 Qualidade e Testes
-
-Tenho interesse em **Quality Assurance (QA)** e testes automatizados.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=jest" />
-
-</div>
-
-Utilizo o **Jest** para estudar e desenvolver testes automatizados, buscando garantir maior qualidade e confiabilidade nas aplicações.
-
----
-
-## 🐧 Linux
-
-Tenho interesse em sistemas Linux e em aprimorar meus conhecimentos em:
-
-- 💻 Terminal e linha de comando
-- 📁 Gerenciamento de arquivos
-- 🔐 Permissões e usuários
-- ⚙️ Administração de sistemas
-- 🌐 Redes e servidores
-- 🚀 Ambientes para desenvolvimento e DevOps
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+| | Foco |
+|:---:|:---|
+| 🧪 | Evoluir em **QA e testes automatizados** |
+| 🗄️ | Aprofundar conhecimentos em **Banco de Dados** |
+| ⚙️ | Estudar **DevOps** |
+| ☁️ | Aprender mais sobre **Computação em Nuvem** |
+| 🔐 | Conhecer mais sobre **Cibersegurança** |
+| 🐧 | Evoluir meus conhecimentos em **Linux** |
+| 📱 | Aprimorar **React Native** |
 
 </div>
 
 ---
 
-## 📈 Minhas principais habilidades
+# 📚 Aprendizado Contínuo
+
+> 💡 **Meu objetivo não é apenas aprender tecnologias, mas entender como utilizá-las para resolver problemas.**
+
+Estou constantemente buscando desenvolver minhas habilidades técnicas, conhecer novas ferramentas e transformar conhecimento em experiência prática.
+
+---
+
+# 💼 Objetivos Profissionais
 
 ```text
-HTML           ████████████████████
-CSS            ██████████████████
-JavaScript     █████████████████
-Git            ████████████████
-GitHub         ████████████████
-Linux          ██████████████
-React Native   █████████████
-Jest           ███████████
+🎓 Concluir minha formação
+        ↓
+💻 Aprofundar meus conhecimentos em TI
+        ↓
+🧪 Desenvolver habilidades em QA
+        ↓
+🗄️ Evoluir em Banco de Dados
+        ↓
+⚙️ Aprender DevOps e Cloud
+        ↓
+🔐 Conhecer mais sobre Cibersegurança
+        ↓
+🚀 Construir minha carreira em Tecnologia
