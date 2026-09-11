@@ -1,224 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e293b,100:7c3aed&height=180&section=header&text=Daniel%20Dias&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Estudante%20de%20Informática%20para%20Web&descAlignY=60&descSize=18"/>
+# Daniel Dias
 
-</div>
+### Estudante de Informática para Web · Tecnologia · Qualidade · Infraestrutura
 
-<div align="center">
-
-# 👋 Olá, eu sou o Daniel!
-
-### 💻 Estudante de Informática para Web
-
-**Tecnologia • Aprendizado • Evolução**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Informática para Web**, apaixonado por tecnologia e sempre buscando ampliar meus conhecimentos.
-
-Tenho interesse em construir uma carreira na área de TI, principalmente nos campos de **Banco de Dados, QA, DevOps, Computação em Nuvem e Cibersegurança**.
-
-Gosto de aprender através da prática, desenvolver soluções, testar novas tecnologias e compreender cada vez melhor como os sistemas funcionam.
-
-🎯 **Objetivo:** conquistar minha primeira oportunidade na área de TI e continuar evoluindo profissionalmente.
-
----
-
-# 🧠 Habilidades
-
-<div align="center">
-
-### 🌐 Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-`HTML` • `CSS` • `JavaScript`
-
-<br><br>
-
-### 📱 Desenvolvimento Mobile
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<br><br>
-
-`React Native`
-
-<br><br>
-
-### 🧪 Qualidade e Testes
-
-<img src="https://skillicons.dev/icons?i=jest" />
-
-<br><br>
-
-`Jest` • `Testes Automatizados` • `Qualidade de Software`
-
-<br><br>
-
-### 🔧 Versionamento e Colaboração
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-<br><br>
-
-`Git` • `GitHub` • `Versionamento de Código`
-
-<br><br>
-
-### 🐧 Sistemas Operacionais
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<br><br>
-
-`Linux` • `Terminal` • `Linha de Comando`
+<p>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-# ⚡ Stack Tecnológica
+## Sobre mim
 
-<div align="center">
+Sou estudante de **Informática para Web**, interessado em tecnologia, qualidade de software e infraestrutura.
 
-| 🌐 Web | 📱 Mobile | 🧪 Testes | 🔧 Versionamento | 🐧 Sistemas |
-|:---:|:---:|:---:|:---:|:---:|
-| HTML | React Native | Jest | Git | Linux |
-| CSS | | Testes | GitHub | Terminal |
-| JavaScript | | QA | | |
+Meu objetivo é construir uma carreira em TI explorando principalmente **Banco de Dados, QA, DevOps, Computação em Nuvem e Cibersegurança**.
 
-</div>
+Tenho interesse em entender não apenas o desenvolvimento de aplicações, mas também os processos, ambientes e tecnologias que tornam sistemas mais **seguros, confiáveis e eficientes**.
+
+Atualmente, busco minha **primeira oportunidade profissional na área de TI**, enquanto continuo aprimorando meus conhecimentos por meio de estudos e projetos práticos.
 
 ---
 
-# 🎯 Áreas de Interesse
+## Stack & Ferramentas
 
-<div align="center">
+### Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+**HTML · CSS · JavaScript**
+
+---
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Native**
+
+---
+
+### Qualidade de Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+**Jest · Testes automatizados · QA**
+
+---
+
+### Versionamento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+**Git · GitHub · Controle de versão**
+
+---
+
+### Sistemas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+**Linux · Terminal · Linha de comando**
+
+---
+
+## Áreas de interesse
 
 <table>
 <tr>
-<td align="center" width="180">
+<td align="center" width="20%">
 
-🗄️
+### 🗄️
 
-### Banco de Dados
-
-</td>
-
-<td align="center" width="180">
-
-🧪
-
-### QA
+**Banco de Dados**
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="20%">
 
-⚙️
+### 🧪
 
-### DevOps
-
-</td>
-
-<td align="center" width="180">
-
-☁️
-
-### Cloud
+**QA**
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="20%">
 
-🔐
+### ⚙️
 
-### Cibersegurança
+**DevOps**
+
+</td>
+
+<td align="center" width="20%">
+
+### ☁️
+
+**Cloud**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔐
+
+**Cibersegurança**
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
-Tenho interesse em aprofundar meus conhecimentos nessas áreas e entender como diferentes tecnologias se conectam dentro de ambientes profissionais de TI.
-
 ---
 
-# 📊 GitHub Analytics
+## Conhecimentos
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+| Categoria | Tecnologias |
+|:---|:---|
+| **Web** | HTML · CSS · JavaScript |
+| **Mobile** | React Native |
+| **Testes** | Jest · Testes automatizados |
+| **Versionamento** | Git · GitHub |
+| **Sistemas** | Linux · Terminal |
 
 </div>
 
 ---
 
-# 🚀 Atualmente
-
-<div align="center">
-
-| | Foco |
-|:---:|:---|
-| 🧪 | Evoluir em **QA e testes automatizados** |
-| 🗄️ | Aprofundar conhecimentos em **Banco de Dados** |
-| ⚙️ | Estudar **DevOps** |
-| ☁️ | Aprender mais sobre **Computação em Nuvem** |
-| 🔐 | Conhecer mais sobre **Cibersegurança** |
-| 🐧 | Evoluir meus conhecimentos em **Linux** |
-| 📱 | Aprimorar **React Native** |
-
-</div>
-
----
-
-# 📚 Aprendizado Contínuo
-
-> 💡 **Meu objetivo não é apenas aprender tecnologias, mas entender como utilizá-las para resolver problemas.**
-
-Estou constantemente buscando desenvolver minhas habilidades técnicas, conhecer novas ferramentas e transformar conhecimento em experiência prática.
-
----
-
-# 💼 Objetivos Profissionais
+## Atualmente estudando
 
 ```text
-🎓 Concluir minha formação
-        ↓
-💻 Aprofundar meus conhecimentos em TI
-        ↓
-🧪 Desenvolver habilidades em QA
-        ↓
-🗄️ Evoluir em Banco de Dados
-        ↓
-⚙️ Aprender DevOps e Cloud
-        ↓
-🔐 Conhecer mais sobre Cibersegurança
-        ↓
-🚀 Construir minha carreira em Tecnologia
+Banco de Dados
+      ↓
+Quality Assurance
+      ↓
+DevOps
+      ↓
+Computação em Nuvem
+      ↓
+Cibersegurança
